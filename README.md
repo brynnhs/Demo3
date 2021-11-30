@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+Intro to Psychopy
 
-You can use the [editor on GitHub](https://github.com/brynnhs/Demo3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+PsychoPy is an open-source Python coded software that allows for the creation of online or lab-based psych/neuro experiments. From the Stroop task to a recreation of Super Mario Bros (tutorial here); the possibilities with PyschoPy are almost limitless. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Unlike Python packages like Numpy or MatPlotlib, you will have to download PsychoPy. 
 
-### Markdown
+##Tutorials
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you’re more of a reader than a viewer, PyschoPy has its own textbook detailing how its own how to’s. You can buy the textbook [here](https://us.sagepub.com/en-us/nam/building-experiments-in-psychopy/book253480) and you definitely cannot find it for free [here](https://ca1lib.org/book/11813584/6fb110).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brynnhs/Demo3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
