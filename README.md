@@ -20,5 +20,10 @@ Once you've created and run your participants through the experiment in PsychoPy
 If you run into a bump in creating your experiment, feel free to hit up the [PsychoPy discussion board](https://discourse.psychopy.org/c/online/14). 
 
 ### Books and Articles 
-If you’re more of a reader than a viewer, PyschoPy has its own textbook detailing how its own how to’s. You can buy the textbook [here](https://us.sagepub.com/en-us/nam/building-experiments-in-psychopy/book253480) and you definitely cannot find it for free [here](https://ca1lib.org/book/11813584/6fb110).
+* If you’re more of a reader than a viewer, PyschoPy has its own textbook detailing how its own how to’s. You can buy the textbook [here](https://us.sagepub.com/en-us/nam/building-experiments-in-psychopy/book253480) and you definitely cannot find it for free [here](https://ca1lib.org/book/11813584/6fb110).
+* You could also read [this](https://snuling.com/materials/SWELL-2020/Gyuhwan_Lee_PsychopyTutorial_201222.pdf) article-tutorial on PsychoPy.
+* The following articles discuss and compare different experiment generators including PsychoPy:
+https://peerj.com/articles/9414.pdf
+https://buildmedia.readthedocs.org/media/pdf/psychopy-hoechenberger/latest/psychopy-hoechenberger.pdf
+
 
