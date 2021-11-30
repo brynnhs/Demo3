@@ -22,7 +22,7 @@ PsychoPy is kinda fun to mess around with and see what you can create. It will a
 If you run into a bump in creating your experiment, feel free to hit up the [PsychoPy discussion board](https://discourse.psychopy.org/c/online/14). 
 
 ### Premade Experiments
-PsychoPy tasks are uploaded to the website [Pavlovia](https://pavlovia.org/explore?sort=DEFAULT) to be run participants online and / or used by other researchers. You can find many different experiments, look at how they were coded, download them to use on PsychoPy yourself, and test run them. When reading about a new kind of task in literature, it's helpful to look on Pavlovia (if you can't find it with a google search) so you can run through the stimulus presentation yourself to better visualize the task. 
+PsychoPy tasks are uploaded to the website [Pavlovia](https://pavlovia.org/explore?sort=DEFAULT) to be run participants online and / or used by other researchers. You can find many different experiments, look at how they were coded, download them to use on PsychoPy yourself, and test run them. When reading about a new kind of task in literature, it's helpful to look on Pavlovia so you can run through the stimulus presentation yourself to better visualize the task. 
 
 ### Books and Articles 
 * If you’re more of a reader than a viewer, PyschoPy has its own textbook detailing how its own how to’s. You can buy the textbook [here](https://us.sagepub.com/en-us/nam/building-experiments-in-psychopy/book253480) and you definitely cannot find it for free [here](https://ca1lib.org/book/11813584/6fb110).
