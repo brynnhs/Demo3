@@ -33,6 +33,6 @@ PsychoPy tasks are uploaded to the website [Pavlovia](https://pavlovia.org/explo
 
 [https://buildmedia.readthedocs.org/media/pdf/psychopy-hoechenberger/latest/psychopy-hoechenberger.pdf](url)
 
-# Hope you enjoyed my PsycoPy Demo!!
+# Hope you enjoyed my PsychoPy Demo!!
 
 
